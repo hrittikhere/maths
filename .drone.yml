@@ -4,7 +4,7 @@ name: default
 
 workspace:
   base: /go
-  path: src/github.com/hrittikhere/reponame/main
+  path: src/github.com/hrittikhere/maths/main
 
 steps:
 - name: test
